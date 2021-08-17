@@ -38,6 +38,7 @@ const Home = (props) => (
 const Products = () => (
   <div>
     <h2>Products</h2>
+    <div>This is the Products page - change 2</div>
   </div>
 )
 
