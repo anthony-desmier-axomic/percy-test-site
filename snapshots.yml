@@ -1,0 +1,8 @@
+- name: home page
+  url: https://percy-test-site.netlify.app/
+
+- name: projects page
+  url: https://percy-test-site.netlify.app/products
+
+- name: category page
+  url: https://percy-test-site.netlify.app/category
