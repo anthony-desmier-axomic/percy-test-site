@@ -45,6 +45,7 @@ const Products = () => (
 const Category = () => (
   <div>
     <h2>Category</h2>
+    <div>This is the category page!!</div>
   </div>
 )
 
