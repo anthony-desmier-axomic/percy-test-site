@@ -46,6 +46,7 @@ const Category = () => (
   <div>
     <h2>Category</h2>
     <div>This is the category page!!</div>
+    <h6>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, debitis. Natus perferendis error veritatis explicabo ex aperiam, adipisci itaque facilis nisi accusamus, aliquam cum est? Quo dolorem ullam animi ipsum?</h6>
   </div>
 )
 
