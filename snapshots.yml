@@ -1,8 +1,8 @@
 - name: home page
-  url: https://percy-test-site.netlify.app/
+  url: https://localhost:3000/
 
 - name: projects page
-  url: https://percy-test-site.netlify.app/products
+  url: https://localhost:3000/products
 
 - name: category page
-  url: https://percy-test-site.netlify.app/category
+  url: https://localhost:3000/category
